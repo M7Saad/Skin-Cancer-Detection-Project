@@ -1,3 +1,13 @@
+#ignore data folder
+data/
+
+#macos
+.DS_Store
+
+#notebook
+.ipynb_checkpoints
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
